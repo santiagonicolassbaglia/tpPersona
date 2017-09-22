@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506109736 source:c:\users\admin\desktop\tp persona\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
